@@ -1,0 +1,22 @@
+{
+  "name": "ProjectManagement",
+  "version": "1.0.0",
+  "description": "this is an app for managing the working project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/afzalpulickal/ProjectManagement.git"
+  },
+  "keywords": [
+    "ReactApp"
+  ],
+  "author": "Abu Afzal,Sasank",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afzalpulickal/ProjectManagement/issues"
+  },
+  "homepage": "https://github.com/afzalpulickal/ProjectManagement"
+}
